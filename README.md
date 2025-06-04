@@ -117,6 +117,3 @@ test_trained_model()
 - Explore different reward functions for faster convergence
 - Implement parallel training for multiple environments
 
-## License
-
-MIT
