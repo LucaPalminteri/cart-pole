@@ -78,7 +78,7 @@ matplotlib
 ```bash
 # Clone the repository
 git clone https://github.com/LucaPalminteri/cart-pole.git
-cd baby-balance
+cd cart-pole
 
 # Create and activate virtual environment (optional)
 python -m venv .venv
@@ -116,4 +116,3 @@ test_trained_model()
 - Add prioritized experience replay for more efficient learning
 - Explore different reward functions for faster convergence
 - Implement parallel training for multiple environments
-
